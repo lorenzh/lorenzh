@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Lorenz 👋
 
-<!--
-**lorenzh/lorenzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Developer with 16+ years of experience. Currently building retail applications with Angular/TypeScript, with a fullstack .NET background.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **loom** — an agent runtime built for transparency. All state lives in the filesystem. Everything is observable with standard Unix tools. Nothing is hidden.
+- 🏠 Home lab experiments — Ubuntu server with Ollama, Docker, and local LLMs
+- 🤖 Exploring AI agent architectures, MCP servers, and Claude integrations
+
+## Tech I work with
+
+**Daily:** Angular · TypeScript · RxJS · SCSS  
+**Backend:** .NET · C# · Node.js · Bun  
+**Exploring:** Go · Solana/Anchor · AI/LLM tooling 
+
+## Beyond code
+
+📷 Photography · 🖨️ 3D Printing · 🎮 Gaming
+
+---
+
+📫 [lorenz.hilpert@gmail.com](mailto:lorenz.hilpert@gmail.com)
